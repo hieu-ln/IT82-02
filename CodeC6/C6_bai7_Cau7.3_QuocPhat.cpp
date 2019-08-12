@@ -75,7 +75,7 @@ void swap(int &x, int &y)
 	y=c;
 
 }
-//fkdf
+//kiem tra
 int tontai(int d, int D[], int nD)
 {
 	for(int i= 0; i< n; i++)
@@ -102,7 +102,7 @@ void xoacanh(int u, int v)
 			break;
 		}
 }
-///gfgfdgfdg
+///tao E
 void taoE()
 {
 	for(int i = 0; i< n; i++)
@@ -130,7 +130,7 @@ void sapxepE()
 }
 
 
-//Kruskla
+//thu tuc kruscal
 void Kruskla()
 {
 	for(int i= 0; i<n;i++)
